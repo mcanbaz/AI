@@ -9,3 +9,5 @@ Projects :
 <li>Translate a csv file adding new columns 
 <li>article-recommendation with translation 
 <li>new-york-city-taxi-fare-prediction 
+<li>german-signs-cnn
+<li>House Prices - Advanced Regression Techniques
