@@ -11,3 +11,6 @@ Projects :
 <li>new-york-city-taxi-fare-prediction 
 <li>german-signs-cnn
 <li>House Prices - Advanced Regression Techniques
+<li>Customer Segmentation
+<li>Customer segmentation flight notebook
+<li>NYC Taxi Fare Prediction - Regression
