@@ -2,10 +2,10 @@
 artificial intelligence
 Projects :
 
-Heart Disease Prediction 
-Sentiment analysis - twitter 
-Stress Detection 
-Supermarket - Data Visualization 
-Translate a csv file adding new columns 
-article-recommendation with translation 
-new-york-city-taxi-fare-prediction 
+<li>Heart Disease Prediction 
+<li>Sentiment analysis - twitter 
+<li>Stress Detection 
+<li>Supermarket - Data Visualization 
+<li>Translate a csv file adding new columns 
+<li>article-recommendation with translation 
+<li>new-york-city-taxi-fare-prediction 
