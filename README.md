@@ -1,7 +1,7 @@
 # AI
 Artificial Intelligence
 
-Projects (14/20):
+Projects (16/20):
 
 <li>Heart Disease Prediction 
 <li>Sentiment analysis - twitter 
@@ -18,3 +18,4 @@ Projects (14/20):
 <li>Student Performance Analysis
 <li>Contact Tracing
 <li>Human Resource Analysis
+<li>Face Recognizer
