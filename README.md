@@ -15,3 +15,4 @@ Projects :
 <li>Customer segmentation flight notebook
 <li>NYC Taxi Fare Prediction - Regression
 <li>Student Performance Analysis
+<li>Contact Tracing
