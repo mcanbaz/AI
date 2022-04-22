@@ -1,6 +1,7 @@
 # AI
-artificial intelligence
-Projects :
+Artificial Intelligence
+
+Projects (14/20):
 
 <li>Heart Disease Prediction 
 <li>Sentiment analysis - twitter 
