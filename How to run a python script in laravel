@@ -1,0 +1,18 @@
+Install symfony/process using below composer command.
+
+composer require symfony/process
+
+Then you can use in your controller files.
+
+use Symfony\Component\Process\Process;
+use Symfony\Component\Process\Exception\ProcessFailedException;
+
+
+$process = new Process(['python', '../app/Scripts/train_model.py']);
+$process->run();
+
+if (!$process->isSuccessful()) {
+    throw new ProcessFailedException($process);
+}
+
+$data = $process->getOutput();
