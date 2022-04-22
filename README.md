@@ -17,3 +17,4 @@ Projects (14/20):
 <li>NYC Taxi Fare Prediction - Regression
 <li>Student Performance Analysis
 <li>Contact Tracing
+<li>Human Resource Analysis
